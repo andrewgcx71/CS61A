@@ -36,7 +36,6 @@ To start a text-based game, run
 
 $ python3 ants_text.py
 
-----------------------
 
 To start a graphical game, run
 ------
