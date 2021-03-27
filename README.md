@@ -2,4 +2,6 @@
 
 Self-taught promgram, finish all labs, homeworks and projects except proj 4.
 
-Course Website: https://inst.eecs.berkeley.edu/~cs61a/sp20/
+Course Website:
+
+[here](https://inst.eecs.berkeley.edu/~cs61a/sp20/)
