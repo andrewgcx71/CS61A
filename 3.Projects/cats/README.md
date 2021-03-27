@@ -21,6 +21,7 @@ gui_files: A directory of files needed for the graphical user interface (GUI)
 To run the GUI from your terminal:
 
 $ python3 gui.py
+
 5. Class Project Site
-6. 
+
 [here](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
