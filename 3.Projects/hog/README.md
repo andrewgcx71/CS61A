@@ -1,10 +1,11 @@
-![](https://media.giphy.com/media/AhS5br4fmV322i0DvA/giphy.gif)
+
 
 
 Introduction
 -----
 
 This project involves developing a simulator and multiple strategies for the dice game Hog.
+![](https://media.giphy.com/media/AhS5br4fmV322i0DvA/giphy.gif)
 
 Rules
 -----
