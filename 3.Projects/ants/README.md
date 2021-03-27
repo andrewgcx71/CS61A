@@ -17,16 +17,17 @@ Playing the Game
 The game can be run in two modes: as a text-based game or using a graphical user interface (GUI). The game logic is the same in either case, but the GUI enforces a turn time limit that makes playing the game more exciting. The text-based interface is provided for debugging and development.
 
 To start a text-based game, run
+------
 
---------------------
+
 
 $ python3 ants_text.py
 
 ----------------------
 
 To start a graphical game, run
+------
 
-----------------------
 
 $ python3 ants_gui.py
 
