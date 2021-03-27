@@ -35,14 +35,14 @@ To start a text-based game, run
 
 
 
-$ python3 ants_text.py
+python3 ants_text.py
 
 
 To start a graphical game, run
 ------
 
 
-$ python3 ants_gui.py
+python3 ants_gui.py
 
 Class Project Site
 ----------------
