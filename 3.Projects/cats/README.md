@@ -23,7 +23,7 @@ Files in the project
 To run the GUI from your terminal:
 -------------
 
-$ python3 gui.py
+python3 gui.py
 
 ------------------------------------------------------------
 
