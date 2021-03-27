@@ -22,4 +22,5 @@ To run the GUI from your terminal:
 
 $ python3 gui.py
 5. Class Project Site
-[here](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/) for more information.
+6. 
+[here](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
