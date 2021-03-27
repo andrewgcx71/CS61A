@@ -14,7 +14,7 @@ A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bee
 Files
 ----
 
-===Files in this project:==
+Files in this project:
  
  - ants.py: The game logic of Ants Vs. SomeBees
  - ants_gui.py: The original GUI for Ants Vs. SomeBees
