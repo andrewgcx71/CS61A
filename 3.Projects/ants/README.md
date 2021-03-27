@@ -11,6 +11,19 @@ The Game
 
 A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bees may enter the ant colony. Then, new ants are placed to defend their colony. Finally, all insects (ants, then bees) take individual actions. Bees either try to move toward the end of the tunnel or sting ants in their way. Ants perform a different action depending on their type, such as collecting more food, or throwing leaves at the bees. The game ends either when a bee reaches the end of a tunnel (you lose), or the entire bee fleet has been vanquished (you win).
 
+Files
+----
+
+-Files in this project:
+
+ -ants.py: The game logic of Ants Vs. SomeBees
+ -ants_gui.py: The original GUI for Ants Vs. SomeBees
+ -graphics.py: Utilities for displaying simple two-dimensional animations
+ -utils.py: Some functions to facilitate the game interface
+ -ucb.py: Utility functions for CS 61A
+ -assets: A directory of images and files used by gui.py
+ -img: A directory of images used by ants_gui.py
+
 Playing the Game
 --------------------
 
