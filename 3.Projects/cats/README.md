@@ -1,9 +1,10 @@
+![](https://media.giphy.com/media/PP2GtzyBOLhiynNMCl/giphy.gif)
+
 Introduction
 -------------
 
 This project involves writing a program that measures typing speed and implementing typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it.
 
-![](https://media.giphy.com/media/PP2GtzyBOLhiynNMCl/giphy.gif)
 
 Files
 -----
