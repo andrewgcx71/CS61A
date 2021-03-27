@@ -14,15 +14,14 @@ A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bee
 Files
 ----
 
--Files in this project:
-
- -ants.py: The game logic of Ants Vs. SomeBees
- -ants_gui.py: The original GUI for Ants Vs. SomeBees
- -graphics.py: Utilities for displaying simple two-dimensional animations
- -utils.py: Some functions to facilitate the game interface
- -ucb.py: Utility functions for CS 61A
- -assets: A directory of images and files used by gui.py
- -img: A directory of images used by ants_gui.py
+- Files in this project:
+ - ants.py: The game logic of Ants Vs. SomeBees
+ - ants_gui.py: The original GUI for Ants Vs. SomeBees
+ - graphics.py: Utilities for displaying simple two-dimensional animations
+ - utils.py: Some functions to facilitate the game interface
+ - ucb.py: Utility functions for CS 61A
+ - assets: A directory of images and files used by gui.py
+ - img: A directory of images used by ants_gui.py
 
 Playing the Game
 --------------------
