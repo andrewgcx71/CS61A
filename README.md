@@ -1,6 +1,6 @@
 # CS 61A: Structure and Interpretation of Computer Programs
 
-Self-taught promgrammer, finished all labs, homeworks and projects except proj 4.
+Self-taught promgrammer, finished all labs, homeworks and projects.
 
 Course Website:
 
